@@ -5,6 +5,8 @@ Personal project built during the 5DCC to put in pratice what I have learned dur
 
 The 5 Day Coding Challenge Event were held by Code Institute, where they teach the basics of HTML, CSS, and JavaScript  to start the learning process in programming
 
+This was my second front end project. I started from the Skills that I have learned during this 2 firsts months from the complete zero Knowledge in coding to this brilhant Project! I am very excited to finish it!
+
 27 Setemper to 01 october 2022. 
 
 ![preview](./.github/preview(2).png)
@@ -22,8 +24,21 @@ The 5 Day Coding Challenge Event were held by Code Institute, where they teach t
 ---
 
 ## 📚What have I learned.
- 
-This was my second front end project. I started from the Skills that I have learned during this 2 firsts months from the complete zero Knowledge in coding to this brilhant Project! I am very excited to finish it!
+
+- What is web development?
+- The anatomy of a web page.
+- Using the coding enviroment.
+- Common HTML elements.
+- Targeting a group.
+- Css overview.
+- Targeting an individual.
+- HTML and semantic elements.
+- Project introduction.
+- HTML and semantic web.
+- Headings and lists.
+- Adding an image.
+- Responsive design.
+- Core styling.
 
 ---
 
