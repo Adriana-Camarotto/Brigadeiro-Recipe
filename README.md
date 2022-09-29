@@ -1,7 +1,7 @@
 # 5DCC - 5 day coding challenge
 
 <div align= "center">
-<img scr= "./.github/preview(2).png">
+<img scr= "[./.github/preview(2).png](https://github.com/Adriana-Camarotto/Brigadeiro-Recipe/blob/master/.github/preview(2).png)">
 </div>
  
 ![preview](./.github/preview(2).png> trail explorer.
