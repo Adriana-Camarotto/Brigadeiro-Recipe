@@ -4,7 +4,7 @@
 <img scr= "[./.github/preview(2).png](https://github.com/Adriana-Camarotto/Brigadeiro-Recipe/blob/master/.github/preview(2).png)">
 </div>
  
-![preview](./.github/preview(2).png> trail explorer.
+![preview](./Brigadeiro-Recipe/.github/preview(2).png> trail explorer.
 
 Personal project built during the 5DCC to put in pratice what I have learned during this course and others since I started to learn coding for Front End developement.
 
