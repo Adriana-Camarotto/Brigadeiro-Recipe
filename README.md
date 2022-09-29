@@ -1,4 +1,8 @@
 # 5DCC - 5 day coding challenge
+
+<div align= "center">
+<img scr= "./.github/preview(2).png">
+</div>
  
 ![preview](./.github/preview(2).png> trail explorer.
 
