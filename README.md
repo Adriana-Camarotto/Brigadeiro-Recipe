@@ -1,10 +1,6 @@
 # 5DCC - 5 day coding challenge
 
-<div align= "center">
-<img scr= "[./.github/preview(2).png](https://github.com/Adriana-Camarotto/Brigadeiro-Recipe/blob/master/.github/preview(2).png)">
-</div>
- 
-![preview](./Brigadeiro-Recipe/.github/preview(2).png> trail explorer.
+![preview](./.github/preview(2).png>
 
 Personal project built during the 5DCC to put in pratice what I have learned during this course and others since I started to learn coding for Front End developement.
 
