@@ -1,6 +1,6 @@
 # 5DCC - 5 day coding challenge
  
-![preview](.github/preview(2).png> trail explorer.
+![preview](./.github/preview(2).png> trail explorer.
 
 Personal project built during the 5DCC to put in pratice what I have learned during this course and others since I started to learn coding for Front End developement.
 
