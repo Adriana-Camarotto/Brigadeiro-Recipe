@@ -11,7 +11,7 @@ This was my second front end project. I started from the Skills that I have lear
 
 ![preview](./.github/preview(2).png)
 
-[Click here to acsess:](https://adriana-camarotto.github.io/Brigadeiro-Recipe/)
+[Click here to acsess:](https://adriana-camarotto.github.io/Brigadeiro-Recipe)
 
 ---
 
