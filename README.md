@@ -39,6 +39,11 @@ This was my second front end project. I started from the Skills that I have lear
 - Adding an image.
 - Responsive design.
 - Core styling.
+- What is web development?.
+- Using the coding environment.
+- Common HTML elements.
+- Using the coding environment.
+- Common JavaScript elements.
 
 ---
 
