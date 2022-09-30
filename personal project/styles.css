@@ -4,6 +4,36 @@
     box-sizing: border-box;
 }
 
+#container {
+    border: 2px solid rgb(47, 0, 255);
+    display: flexbox;
+    justify-content: center;
+    
+}
+
+.introdution {
+    border: 2px solid rgb(255, 140, 0);
+    
+}
+
+.Cooktime {
+    border: 2px solid yellow;
+
+}
+
+.Ingredients li {
+    
+    border: 2px solid yellow;
+    text-align: 15%;
+    
+}
+
+.Preparation {
+    border: 2px solid yellow;
+}
+
+
+
 header {
     /*border: 4px solid orange;*/
     margin-bottom: 30px;
@@ -13,16 +43,16 @@ header {
 
 header img {
     margin-top: 20px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+   
 }
 
 header div { 
-    width: 180px;
+    width: 150px;
     margin: auto;
     /*border: 4px solid rgb(255, 0, 183);  */
-    border-radius: 49%;
+    border-radius: 50%;
 
-    display: flex;
     padding: 4px;
 
     transition: transform .3s; /* recebe duas propriedades transform e tempo .3s*/
@@ -94,12 +124,14 @@ h2 {
 
 footer {
     
-    font-size: 10px;
+    font-size: 15px;
+    text-align: center;
     color: grey;
 
     margin-top: 30px;
-    margin-bottom: 5px;
+    margin-bottom: 30px;
 
+    
 }
 
 footer div {
@@ -107,42 +139,10 @@ footer div {
     border-radius: 8px;
     background-color: rgba(128, 128, 128, 0.514);
     
-    display: flex;
-    
     max-width: 900px;
     width: 90%;
     margin: auto;
 
     padding-top: 3px;
     padding-bottom: 3px;
-       
-}
-
-/*
-.container {
-    border: 2px solid rgb(47, 0, 255);
-    display: flexbox;
-    justify-content: center;
-    
-}
-
-.introdution {
-    border: 2px solid rgb(255, 140, 0);
-    display: flexbox;
    
-}
-
-.Cooktime {
-    border: 2px solid yellow;
-
-}
-
-.Ingredients {
-    border: 2px solid yellow;
-}
-
-.Preparation {
-    border: 2px solid yellow;
-}
-
-*/
