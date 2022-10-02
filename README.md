@@ -1,7 +1,5 @@
 #Brigadeiro recipe
 
-Personal project built during the 5DCC to put in pratice what I have learned during this course and others since I started to learn coding for Front End developement.
-
 This was my second front end project. I started from the Skills that I have learned during this 2 firsts months from the complete zero Knowledge in coding to this brilhant Project! I am very excited to finish it!
 
 27 Setemper 2022. 
