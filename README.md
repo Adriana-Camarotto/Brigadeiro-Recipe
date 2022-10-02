@@ -1,4 +1,4 @@
-# Personal Project - Brigadeiro recipe
+#Brigadeiro recipe
 
 Personal project built during the 5DCC to put in pratice what I have learned during this course and others since I started to learn coding for Front End developement.
 
